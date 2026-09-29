@@ -1,4 +1,29 @@
 
+Design 2 test case and prepare RTM for the requirement
+
+
+
+Req id: Req_payment_001
+
+Requirement: User should pay thro CC / UPI / COD for
+
+ a product purchase
+
+Site: www.flipkart.com
+
+
+
+
+Testcase id: TC_modulename_001
+
+Test Desc: What u r gng to verify
+
+Test Steps: 
+
+Test data: 
+
+Expected Result:
+
 Test Case 1
 
 Test Case ID: TC_payment_001
