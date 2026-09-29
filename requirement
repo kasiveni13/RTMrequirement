@@ -1,0 +1,156 @@
+
+Test Case 1
+
+Test Case ID: TC_payment_001
+
+Test Desc:
+Verify that the user can purchase a product using Credit Card.
+
+Test Steps:
+
+Open Flipkart website.
+Search for a product.
+Select the product.
+Click Buy Now.
+Proceed to the payment page.
+Select Credit Card.
+Enter valid card details.
+Complete the payment.
+Expected Result:
+User should be able to successfully purchase the product using Credit Card.
+
+Test Case 2
+
+Test Case ID: TC_payment_002
+
+Test Desc:
+Verify that the user can purchase a product using UPI.
+
+Test Steps:
+
+Open Flipkart website.
+Search for a product.
+Select the product.
+Click Buy Now.
+Proceed to the payment page.
+Select UPI.
+Complete the payment.
+
+Expected Result:
+User should be able to successfully purchase the product using UPI.
+
+Test Case 3
+
+Test Case ID: TC_payment_003
+
+Test Desc:
+Verify that the user can purchase a product using Cash on Delivery (COD).
+
+Test Steps:
+
+Open Flipkart website.
+Search for a product.
+Select the product.
+Click Buy Now.
+Proceed to the payment page.
+Select Cash on Delivery (COD).
+Place the order.
+
+Expected Result:
+User should be able to successfully place the order using Cash on Delivery (COD).
+
+
+Test Case 4
+
+Test Case ID: TC_payment_004
+
+Test Desc:
+Verify that Credit Card, UPI, and COD payment options are available for a product purchase.
+
+Test Steps:
+
+Open Flipkart website.
+Search for a product.
+Select the product.
+Click Buy Now.
+Proceed to the payment page.
+Check the available payment options.
+
+Expected Result:
+Credit Card, UPI, and COD payment options should be displayed.
+
+
+Test Case 5
+
+Test Case ID: TC_payment_005
+
+Test Desc:
+Verify that the user can select Credit Card as the payment method during product purchase.
+
+Test Steps:
+
+Open Flipkart website.
+Search for a product.
+Select the product.
+Click Buy Now.
+Proceed to the payment page.
+Select Credit Card.
+
+Expected Result:
+Credit Card should be selectable as a payment option.
+
+Test Case 6
+
+Test Case ID: TC_payment_006
+
+Test Desc:
+Verify that the user can select UPI as the payment method during product purchase.
+
+Test Steps:
+
+Open Flipkart website.
+Search for a product.
+Select the product.
+Click Buy Now.
+Proceed to the payment page.
+Select UPI.
+
+Expected Result:
+UPI should be selectable as a payment option.
+
+RTM
+
+TC_payment_001
+Requirement ID: Req_payment_001
+Test Case: Verify user can purchase a product using Credit Card.
+Requirement Coverage: Covered
+
+TC_payment_002
+Requirement ID: Req_payment_001
+Test Case: Verify user can purchase a product using UPI.
+Requirement Coverage: Covered
+
+TC_payment_003
+Requirement ID: Req_payment_001
+Test Case: Verify user can purchase a product using COD.
+Requirement Coverage: Covered
+
+TC_payment_004
+Requirement ID: Req_payment_001
+Test Case: Verify Credit Card, UPI and COD payment options are available.
+Requirement Coverage: Covered
+
+TC_payment_005
+Requirement ID: Req_payment_001
+Test Case: Verify Credit Card can be selected.
+Requirement Coverage: Covered
+
+TC_payment_006
+Requirement ID: Req_payment_001
+Test Case: Verify UPI can be selected.
+Requirement Coverage: Covered
+
+TC_payment_007
+Requirement ID: Req_payment_001
+Test Case: Verify COD can be selected.
+Requirement Coverage: Covered
